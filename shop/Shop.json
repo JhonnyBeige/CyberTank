@@ -1,0 +1,714 @@
+
+{
+	"data": {
+		"categories": [{
+			"category_id": "special_offers",
+			"description": {
+				"RU": "Special Offers are available in the in-game shop and include a variety of items such as paint, skins, containers, crystals, and much more."
+			},
+			"header_text": {
+				"RU": "Special offers"
+			}
+		},
+		{
+			"category_id": "crystalls",
+			"description": {
+				"RU": "Crystals serve as the in-game currency, enabling players to purchase and upgrade equipment, as well as buy various items in the garage."
+			},
+			"header_text": {
+				"RU": "Crystals"
+			}
+		},
+		{
+			"category_id": "stars",
+			"description": {
+				"RU": "Stars help you progress in the challenges, giving you new rewards."
+			},
+			"header_text": {
+				"RU": "Stars"
+			}
+		},
+		{
+			"category_id": "battlepass",
+			"description": {
+				"RU": "A Battle Pass is a special pass that grants access to premium rewards for each level of the Challenge. You can purchase a Battle Pass at any time while the Challenge is in progress."
+			},
+			"header_text": {
+				"RU": "Battle Pass"
+			}
+		},
+		{
+			"category_id": "containers",
+			"description": {
+				"RU": "A container is a reward item with randomized contents. All earned or purchased containers can be found in the garage."
+			},
+			"header_text": {
+				"RU": "Containers"
+			}
+		},
+		{
+			"category_id": "premium",
+			"description": {
+				"RU": "A Premium account is a paid subscription that grants several bonuses and privileges to its owner. It is available for purchase at any rank, remains active for a specified number of days, and can be extended at any time."
+			},
+			"header_text": {
+				"RU": "Premium"
+			}
+		},
+		{
+			"category_id": "paints",
+			"description": {
+				"RU": "Unique paint jobs for tanks. Can only be purchased from the shop."
+			},
+			"header_text": {
+				"RU": "Paints"
+			}
+		},
+		{
+			"category_id": "others",
+			"description": {
+				"RU": "A promocode is a unique combination of letters and numbers that can be activated only once. They can be used at any time after being received, though some may have an expiration date."
+			},
+			"header_text": {
+				"RU": "Others"
+			}
+		}],
+		"items": [
+		{
+			"additional_data":
+			{
+				"crystalls_count": 6000,
+				"price": 1.99,
+				"currency": "USD"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_1500",
+			"unique_id": "crystals1",
+			"link": "https://buy.stripe.com/bIY0351BsgQC3oAeVZ"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 15000,
+				"price": 4.99,
+				"currency": "USD",
+				"bonus_crystalls": "4000"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_5000",
+			"unique_id": "crystals2",
+			"link": "https://buy.stripe.com/3csaHJ6VMdEq3oA8xC"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 30000,
+				"price": 9.99,
+				"currency": "USD",
+				"bonus_crystalls": "15000"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_15000",
+			"unique_id": "crystals3",
+			"link": "https://buy.stripe.com/7sI8zBfsi8k62kw4ho"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 60000,
+				"price": 15.99,
+				"currency": "USD",
+				"bonus_crystalls": "18000",
+				"premium_duration": "1",
+				"link": "https://buy.stripe.com/5kAeXZ93U2ZMf7i7tB"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_30000",
+			"unique_id": "crystals4"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 100000,
+				"price": 39.99,
+				"currency": "USD",
+				"bonus_crystalls": "100000",
+				"premium_duration": "3"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_60000",
+			"unique_id": "crystals5",
+			"link": "https://buy.stripe.com/fZe179fsi57U7EQg08"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 143000,
+				"price": 62.99,
+				"currency": "USD",
+				"bonus_crystalls": "215000",
+				"premium_duration": "7"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_100000",
+			"unique_id": "crystals6",
+			"link": "https://buy.stripe.com/8wMcPR1Bsasegbm29j"
+		},
+		{
+			"additional_data":
+			{
+				"price": 0.99,
+				"currency": "USD",
+				"premium_duration": "1"
+			},
+			"category_id": "premium",
+			"item_id": "premium",
+			"unique_id": "premium1",
+			"link": "https://buy.stripe.com/3cs035gwmase6AM29k"
+		},
+		{
+			"additional_data":
+			{
+				"price": 2.99,
+				"currency": "USD",
+				"premium_duration": "7"
+			},
+			"category_id": "premium",
+			"item_id": "premium",
+			"unique_id": "premium2",
+			"link": "https://buy.stripe.com/14kg232FwgQC8IUeW7"
+		},
+		{
+			"additional_data":
+			{
+				"price": 4.99,
+				"currency": "USD",
+				"premium_duration": "14"
+			},
+			"category_id": "premium",
+			"item_id": "premium",
+			"unique_id": "premium3",
+			"link": "https://buy.stripe.com/4gw3fh2FwfMygbmaFT"
+		},
+		{
+			"additional_data":
+			{
+				"price": 9.99,
+				"currency": "USD",
+				"premium_duration": "30"
+			},
+			"category_id": "premium",
+			"item_id": "premium",
+			"unique_id": "premium4",
+			"link": "https://buy.stripe.com/eVaeXZ6VM7g23oA6pE"
+		},
+		{
+			"additional_data":
+			{
+				"price": 19.99,
+				"currency": "USD",
+				"premium_duration": "60"
+			},
+			"category_id": "premium",
+			"item_id": "premium",
+			"unique_id": "premium5",
+			"link": "https://buy.stripe.com/9AQdTV2FweIu9MY9BR"
+		},
+		{
+			"additional_data":
+			{
+				"price": 27.99,
+				"currency": "USD",
+				"premium_duration": "90"
+			},
+			"category_id": "premium",
+			"item_id": "premium",
+			"unique_id": "premium6",
+			"link": "https://buy.stripe.com/dR64jl2Fwasef7i8xO"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 1,
+				"price": 0.99,
+				"currency": "USD"
+			},
+			"category_id": "containers",
+			"item_id": "container_1",
+			"unique_id": "container1",
+			"link": "https://buy.stripe.com/9AQ4jlfsieIuf7i29r"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 3,
+				"price": 2.99,
+				"currency": "USD"
+			},
+			"category_id": "containers",
+			"item_id": "container_5",
+			"unique_id": "container2",
+			"link": "https://buy.stripe.com/eVa9DF6VMbwiaR2bK2"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 10,
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "containers",
+			"item_id": "container_10",
+			"unique_id": "container3",
+			"link": "https://buy.stripe.com/00g5npa7Y57U8IUbK3"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 25,
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "containers",
+			"item_id": "container_15",
+			"unique_id": "container4",
+			"link": "https://buy.stripe.com/28oaHJ93U57UbV6bK4"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 50,
+				"price": 20.99,
+				"currency": "USD"
+			},
+			"category_id": "containers",
+			"item_id": "container_15",
+			"unique_id": "container5",
+			"link": "https://buy.stripe.com/5kA3fhcg6cAm6AM9BX"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 100,
+				"price": 40.99,
+				"currency": "USD"
+			},
+			"category_id": "containers",
+			"item_id": "container_15",
+			"unique_id": "container6",
+			"link": "https://buy.stripe.com/fZeeXZgwmbwi0co14r"
+		},
+		
+		{
+			"additional_data":
+			{
+				"crystalls_count": 10,
+				"price": 0.99,
+				"currency": "USD"
+			},
+			"category_id": "stars",
+			"item_id": "stars1",
+			"unique_id": "stars1",
+			"link": "https://buy.stripe.com/3csbLN3JAbwi0cocOb"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 50,
+				"price": 3.99,
+				"currency": "USD"
+			},
+			"category_id": "stars",
+			"item_id": "stars2",
+			"unique_id": "stars2",
+			"link": "https://buy.stripe.com/9AQ7vx1Bs8k60cobK8"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 100,
+				"price": 7.99,
+				"currency": "USD"
+			},
+			"category_id": "stars",
+			"item_id": "stars3",
+			"unique_id": "stars3",
+			"link": "https://buy.stripe.com/3cseXZdka57U4sEbK9"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 250,
+				"price": 15.99,
+				"currency": "USD"
+			},
+			"category_id": "stars",
+			"item_id": "stars4",
+			"unique_id": "stars4",
+			"link": "https://buy.stripe.com/fZe4jldkaeIu0cobKa"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 500,
+				"price": 30.99,
+				"currency": "USD"
+			},
+			"category_id": "stars",
+			"item_id": "stars5",
+			"unique_id": "stars5",
+			"link": "https://buy.stripe.com/8wMg23gwm43Q5wI01t"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 1000,
+				"price": 59.99,
+				"currency": "USD"
+			},
+			"category_id": "stars",
+			"item_id": "stars6",
+			"unique_id": "stars6",
+			"link": "https://buy.stripe.com/9AQ9DFbc22ZMf7ig0s"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 25000,
+				"supplies": 100,
+				"price": 6.99,
+				"currency": "USD",
+				"premium_duration": "3",
+				"name": "Start up",
+				"image": "",
+				"extra_paint": "recruit_m0",
+				"bg_type": 0
+			},
+			"category_id": "special_offers",
+			"item_id": "special_3",
+			"unique_id": "offer1",
+			"link": "https://buy.stripe.com/7sI9DFbc20RE6AMdRK"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 0,
+				"price": 10.99,
+				"currency": "USD",
+				"premium_duration": "3",
+				"name": "Battle Pass",
+				"image": "",
+				"bg_type": 4
+			},
+			"category_id": "special_offers",
+			"item_id": "special_5",
+			"unique_id": "offer5",
+			"link": "https://buy.stripe.com/6oEeXZdkaase0coeWP"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 0,
+				"supplies": 300,
+				"price": 50.99,
+				"currency": "USD",
+				"premium_duration": "30",
+				"name": "Freezing Storm",
+				"image": "https://i.ibb.co/QmB6Vd5/thunvik.png",
+				"extra_paint": "iceflurry_m0",
+				"bg_type": 1
+			},
+			"category_id": "special_offers",
+			"item_id": "special_4",
+			"unique_id": "offer2",
+			"link": "https://buy.stripe.com/fZe5np1Bs1VI3oA7tu"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 0,
+				"supplies": 100,
+				"price": 35.99,
+				"currency": "USD",
+				"premium_duration": "14",
+				"name": "Toxic Impact",
+				"image": "https://i.ibb.co/1fnQnMj/railwasp.png",
+				"extra_paint": "glow_m0",
+				"bg_type": 2
+			},
+			"category_id": "special_offers",
+			"item_id": "special_1",
+			"unique_id": "offer3",
+			"link": "https://buy.stripe.com/eVa9DF4NE2ZM5wIdRT"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 0,
+				"supplies": 200,
+				"price": 40.99,
+				"currency": "USD",
+				"premium_duration": "21",
+				"name": "Timeless Classic",
+				"image": "https://i.ibb.co/3fBVB8M/twinsmam.png",
+				"extra_paint": "tictactoe_m0",
+				"bg_type": 3
+			},
+			"category_id": "special_offers",
+			"item_id": "special_2",
+			"unique_id": "offer4",
+			"link": "https://buy.stripe.com/5kA8zB6VM1VIf7i7tw"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 25000,
+				"containers": 30,
+				"price": 19.99,
+				"currency": "USD",
+				"name": "Monochrome Masterpiece",
+				"image": "",
+				"extra_paint": "monochrome_m0",
+				"bg_type": 3
+			},
+			"category_id": "special_offers",
+			"item_id": "special_2",
+			"unique_id": "offer6",
+			"link": "https://buy.stripe.com/6oEeXZeoease4sE6qq"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 15000,
+				"containers": 15,
+				"price": 13.39,
+				"currency": "USD",
+				"premium_duration": "7",
+				"name": "Techno Surge Bundle",
+				"image": "",
+				"extra_paint": "polarhues_m0",
+				"bg_type": 3
+			},
+			"category_id": "special_offers",
+			"item_id": "special_2",
+			"unique_id": "offer7",
+			"link": "https://buy.stripe.com/4gwbLN0xoeIugbmbKL"
+		},
+		{
+			"additional_data":
+			{
+				"name": "Olive Widow",
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "olivewidow_m0_preview",
+			"unique_id": "olivewidow",
+			"link": "https://buy.stripe.com/8wMcPReoecAm2kw7sW"
+		},
+		{
+			"additional_data":
+			{
+				"name": "Red Stoker",
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "redstoker_m0_preview",
+			"unique_id": "redstoker",
+			"link": "https://buy.stripe.com/00gcPR4NE0REaR200v"
+		},
+		{
+			"additional_data":
+			{
+				"name": "Thug Signs",
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "thugsigns_m0_preview",
+			"unique_id": "thugsigns",
+			"link": "https://buy.stripe.com/4gw6rtfsi0REgbm6oU"
+		},
+		{
+			"additional_data":
+			{
+				"name": "BOOM",
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "boom_m0_preview",
+			"unique_id": "boom",
+			"link": "https://buy.stripe.com/cN21796VM57Uf7i6oV"
+		},
+		{
+			"additional_data":
+			{
+				"name": "Abstract Maze",
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "abstractmaze_m0_preview",
+			"unique_id": "abstractmaze",
+			"link": "https://buy.stripe.com/8wMcPRa7Y6bYbV614C"
+		},
+		{
+			"additional_data":
+			{
+				"name": "Infinity",
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "infinity_m0_preview",
+			"unique_id": "infinity",
+			"link": "https://buy.stripe.com/3cs3fhgwmase9MYeVt"
+		},
+		{
+			"additional_data":
+			{
+				"name": "Poisonous Vine",
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "poisonousvine_m0_preview",
+			"unique_id": "poisonousvine",
+			"link": "https://buy.stripe.com/dR6bLNfsi57UaR27t2"
+		},
+		{
+			"additional_data":
+			{
+				"name": "Latex",
+				"price": 9.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "latex_m0_preview",
+			"unique_id": "latex",
+			"link": "https://buy.stripe.com/cN2bLNgwm43Q0cobJj"
+		},
+		{
+			"additional_data": {
+				"name": "Drought",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "drought_m0_preview",
+			"unique_id": "drought",
+			"link": "https://buy.stripe.com/eVa8zB93U7g2bV64hT"
+		},
+		{
+			"additional_data": {
+				"name": "Liquid Metal",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "liquidmetal_m0_preview",
+			"unique_id": "liquidmetal",
+			"link": "https://buy.stripe.com/5kAdTVbc20RE3oAcOq"
+		},
+		{
+			"additional_data": {
+				"name": "Arachnid",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "arachnid_m0_preview",
+			"unique_id": "arachnid",
+			"link": "https://buy.stripe.com/bIY5npcg66bYgbm9Cf"
+		},
+		{
+			"additional_data": {
+				"name": "Amber",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "amber_m0_preview",
+			"unique_id": "amber",
+			"link": "https://buy.stripe.com/fZebLN3JAdEq6AM5m0"
+		},
+		{
+			"additional_data": {
+				"name": "Neuron",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "neuron_m0_preview",
+			"unique_id": "neuron",
+			"link": "https://buy.stripe.com/fZebLNbc26bY3oA01H"
+		},
+		{
+			"additional_data": {
+				"name": "Lime",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "lime_m0_preview",
+			"unique_id": "lime",
+			"link": "https://buy.stripe.com/28odTVa7YdEq8IU6q6"
+		},
+		{
+			"additional_data": {
+				"name": "Watercolor",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "watercolor_m0_preview",
+			"unique_id": "watercolor",
+			"link": "https://buy.stripe.com/5kA2bd2Fw9oaf7ig0H"
+		},
+		{
+			"additional_data": {
+				"name": "Mint",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "mint_m0_preview",
+			"unique_id": "mint",
+			"link": "https://buy.stripe.com/eVadTV2Fw9oa2kw5m5"
+		},
+		{
+			"additional_data": {
+				"name": "Domino",
+				"price": 4.99,
+				"currency": "USD"
+			},
+			"category_id": "paints",
+			"item_id": "domino_m0_preview",
+			"unique_id": "domino",
+			"link": "https://buy.stripe.com/aEU5npbc27g2gbm9Ck"
+		},
+		{
+			"additional_data":
+			{
+				"price": 8.99,
+				"currency": "USD",
+				"premium_duration": "1",
+				"link": ""
+			},
+			"category_id": "battlepass",
+			"item_id": "battle_pass",
+			"unique_id": "battlepass",
+			"link": "https://buy.stripe.com/aEUcPR7ZQ0REbV601U"
+		},
+		{
+			"additional_data":
+			{
+			},
+			"category_id": "others",
+			"item_id": "promo"
+		}]
+	
+	}
+}

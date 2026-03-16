@@ -1,0 +1,92 @@
+[
+  {
+    "reward": {
+      "crystals": 1000,
+      "premium": 1000,
+      "stars": 30,
+      "bonusItems": {
+        "mine": 10,
+        "double_damage": 10,
+        "armor": 10,
+        "health": 10,
+        "n2o": 10
+      }
+    },
+    "code": "CTZ0002130KIQWS9031399013",
+    "usedByPlayers": [
+      "testingKits"
+    ],
+    "type": "unique"
+  },
+  {
+    "reward": {
+      "crystals": 3500,
+      "bonusItems": {
+        "mine": 15,
+        "double_damage": 15,
+        "armor": 15,
+        "health": 15,
+        "n2o": 15
+      }
+    },
+    "code": "CTZ0089301380910STOE00301",
+    "usedByPlayers": [
+      "Colly"
+    ],
+    "type": "unique"
+  },
+  {
+    "reward": {
+      "crystals": 1000,
+      "premium": 1,
+      "bonusItems": {
+        "mine": 15,
+        "double_damage": 15,
+        "container_0": 1,
+        "armor": 15,
+        "health": 15,
+        "n2o": 15
+      }
+    },
+    "code": "CTZ0089301380910STOE02301",
+    "usedByPlayers": [
+      "S34",
+      "Colly",
+      "Dersk1Tony",
+      "MysticDream",
+      "aaa",
+      "Electry",
+      "CLS",
+      "kats",
+      "Perenn",
+      "KXwilk",
+      "Ded",
+      "A",
+      "Shivava",
+      "Watermelon",
+      "l.Cloud",
+      "K1NG_Leon",
+      "olegunar",
+      "far2evil",
+      "Maturity",
+      "Toy",
+      "l",
+      "V",
+      "BUBU77",
+      "Hikikomori",
+      "Stanley",
+      "X",
+      "Crystal",
+      "Dhruva",
+      "Light",
+      "Anubis",
+      "Lansky",
+      "rio488",
+      "A.F.F",
+      "11k",
+      "Arman",
+      "RAILLLERD_1"
+    ],
+    "type": "unique"
+  }
+]

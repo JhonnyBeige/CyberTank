@@ -1,0 +1,67 @@
+
+[
+    {
+        "prizes": ["Crystalls × 400", "Double Armor × 10"],
+        "prizesId": ["crystalls", "armor_m0"],
+        "prizesCount": [400, 10],
+        "target_progress": 1,
+        "description": "Catch a gold box",
+        "id": "takeBonusGold"
+    },
+    {
+        "prizes": ["Crystalls × 500", "Double Damage × 10"],
+        "prizesId": ["crystalls", "double_damage_m0"],
+        "prizesCount": [500, 10],
+        "target_progress": 30,
+        "description": "Destroy tanks in battles",
+        "id": "killTank"
+    },
+    {
+        "prizes": ["Repair Kit × 5", "Double Damage × 10"],
+        "prizesId": ["health_m0", "double_damage_m0"],
+        "prizesCount": [5, 10],
+        "target_progress": 20000,
+        "description": "Deal damage to tanks",
+        "id": "damage"
+    },
+    {
+        "prizes": ["Speed Boost × 20", "Mine × 16"],
+        "prizesId": ["n2o_m0", "mine_m0"],
+        "prizesCount": [20, 16],
+        "target_progress": 500,
+        "description": "Gain score in battles",
+        "id": "gainScore"
+    },
+    {
+        "prizes": ["Crystalls × 850", "Mine × 6", "Double Armor × 8"],
+        "prizesId": ["crystalls", "mine_m0", "armor_m0"],
+        "prizesCount": [850, 6, 8],
+        "target_progress": 25,
+        "description": "Capture flags",
+        "id": "captureTheFlag"
+    },
+    {
+        "prizes": ["Crystalls × 250", "Double Armor × 16"],
+        "prizesId": ["crystalls", "armor_m0"],
+        "prizesCount": [250, 15],
+        "target_progress": 15,
+        "description": "Return flags",
+        "id": "flag_return"
+    },
+    {
+        "prizes": ["Repair Kit × 15", "Double Damage × 15"],
+        "prizesId": ["health_m0", "double_dmage_m0"],
+        "prizesCount": [15, 15],
+        "target_progress": 750,
+        "description": "Win crystalls in battles",
+        "id": "win_cry"
+    },
+    {
+        "prizes": ["Crystalls × 950"],
+        "prizesId": ["crystalls"],
+        "prizesCount": [950],
+        "target_progress": 1,
+        "description": "Get 1st place in a battle",
+        "id": "first_place"
+    }
+]

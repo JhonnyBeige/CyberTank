@@ -1,0 +1,1306 @@
+
+{
+  "endDate": "2024-12-16",
+  "tiers": [
+    {
+      "stars": 10,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 20,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 30,
+      "base": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 20
+      }
+    },
+    {
+      "stars": 40,
+      "base": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armors",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "totebag_m0",
+        "itemName": "Tote bag Paint",
+        "count": 1
+      }
+    },
+    {
+      "stars": 50,
+      "base": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 50
+      }
+    },
+    {
+      "stars": 60,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 70,
+      "base": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armors",
+        "count": 50
+      }
+    },
+    {
+      "stars": 80,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 7000
+      }
+    },
+    {
+      "stars": 90,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 50
+      }
+    },
+    {
+      "stars": 100,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 115,
+      "base": {
+        "itemId": "premium",
+        "itemName": "Day Premium Account",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "premium",
+        "itemName": "Day Premium Account",
+        "count": 1
+      }
+    },
+    {
+      "stars": 130,
+      "base": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 145,
+      "base": {
+        "itemId": "supplies_m0",
+        "itemName": "All supplies",
+        "count": 100
+      },
+      "battlePass": {
+        "itemId": "supplies_m0",
+        "itemName": "All supplies",
+        "count": 100
+      }
+    },
+    {
+      "stars": 160,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 30
+      }
+    },
+    {
+      "stars": 175,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 190,
+      "base": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 50
+      }
+    },
+    {
+      "stars": 205,
+      "base": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "twins_coral",
+        "itemName": "Twins \"Coral\" Shoot Effect",
+        "count": 1
+      }
+    },
+    {
+      "stars": 220,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 50
+      }
+    },
+    {
+      "stars": 235,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "premium",
+        "itemName": "Day Premium Account",
+        "count": 1
+      }
+    },
+    {
+      "stars": 250,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 270,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 290,
+      "base": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 50
+      }
+    },
+    {
+      "stars": 310,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 330,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 350,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 370,
+      "base": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 30
+      }
+    },
+    {
+      "stars": 390,
+      "base": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 50
+      }
+    },
+    {
+      "stars": 410,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 430,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 50
+      }
+    },
+    {
+      "stars": 450,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 475,
+      "base": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "premium",
+        "itemName": "Day Premium Account",
+        "count": 1
+      }
+    },
+    {
+      "stars": 500,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 50
+      }
+    },
+    {
+      "stars": 525,
+      "base": {
+        "itemId": "supplies_m0",
+        "itemName": "All supplies",
+        "count": 100
+      },
+      "battlePass": {
+        "itemId": "railgun_snow",
+        "itemName": "Railgun \"Snow\" Shoot Effect",
+        "count": 1
+      }
+    },
+    {
+      "stars": 550,
+      "base": {
+        "itemId": "bluesquare_m0",
+        "itemName": "Blue Square Paint",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "adversity_m0",
+        "itemName": "Adversity Paint",
+        "count": 1
+      }
+    },
+    {
+      "stars": 575,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 600,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 625,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 650,
+      "base": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kit",
+        "count": 30
+      }
+    },
+    {
+      "stars": 675,
+      "base": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 50
+      }
+    },
+    {
+      "stars": 700,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 730,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 50
+      }
+    },
+    {
+      "stars": 760,
+      "base": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 50
+      }
+    },
+    {
+      "stars": 790,
+      "base": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 50
+      }
+    },
+    {
+      "stars": 820,
+      "base": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 50
+      }
+    },
+    {
+      "stars": 850,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 880,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 1000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      }
+    },
+    {
+      "stars": 910,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 940,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 7000
+      }
+    },
+    {
+      "stars": 970,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 10000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 15000
+      }
+    },
+    {
+      "stars": 1000,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1000,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1020,
+      "base": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 30
+      }
+    },
+    {
+      "stars": 1030,
+      "base": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armors",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "santaclaus_m0",
+        "itemName": "Santa Claus Paint",
+        "count": 1
+      }
+    },
+    {
+      "stars": 1040,
+      "base": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1050,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 5
+      }
+    },
+    {
+      "stars": 1060,
+      "base": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armors",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1070,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 7000
+      }
+    },
+    {
+      "stars": 1080,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      }
+    },
+    {
+      "stars": 1090,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1100,
+      "base": {
+        "itemId": "premium",
+        "itemName": "Day Premium Account",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "premium",
+        "itemName": "Day Premium Account",
+        "count": 1
+      }
+    },
+    {
+      "stars": 1115,
+      "base": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1130,
+      "base": {
+        "itemId": "supplies_m0",
+        "itemName": "All supplies",
+        "count": 100
+      },
+      "battlePass": {
+        "itemId": "supplies_m0",
+        "itemName": "All supplies",
+        "count": 100
+      }
+    },
+    {
+      "stars": 1145,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 100
+      }
+    },
+    {
+      "stars": 1160,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1175,
+      "base": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1190,
+      "base": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "freeze_snow",
+        "itemName": "Freeze \"Snow\" Shoot Effect",
+        "count": 1
+      }
+    },
+    {
+      "stars": 1205,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1220,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "premium",
+        "itemName": "Day Premium Account",
+        "count": 1
+      }
+    },
+    {
+      "stars": 1235,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1250,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1270,
+      "base": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1290,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1310,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1330,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1350,
+      "base": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 30
+      }
+    },
+    {
+      "stars": 1370,
+      "base": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1390,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1410,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1430,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1450,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "ricochet_xt",
+        "itemName": "Ricochet XT",
+        "count": 1
+      }
+    },
+    {
+      "stars": 1475,
+      "base": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1500,
+      "base": {
+        "itemId": "supplies_m0",
+        "itemName": "All supplies",
+        "count": 100
+      },
+      "battlePass": {
+        "itemId": "supplies_m0",
+        "itemName": "All supplies",
+        "count": 100
+      }
+    },
+    {
+      "stars": 1525,
+      "base": {
+        "itemId": "snowflake_m0",
+        "itemName": "Paint Snowflake",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "electrohive_m0",
+        "itemName": "Electrohive Paint",
+        "count": 1
+      }
+    },
+    {
+      "stars": 1550,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1575,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1600,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1625,
+      "base": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kit",
+        "count": 30
+      }
+    },
+    {
+      "stars": 1650,
+      "base": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1675,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1700,
+      "base": {
+        "itemId": "health_m0",
+        "itemName": "Repair Kits",
+        "count": 10
+      },
+      "battlePass": {
+        "itemId": "armor_m0",
+        "itemName": "Double Armor",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1730,
+      "base": {
+        "itemId": "double_damage_m0",
+        "itemName": "Double Damage",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1760,
+      "base": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1790,
+      "base": {
+        "itemId": "n2o_m0",
+        "itemName": "Nitro",
+        "count": 30
+      },
+      "battlePass": {
+        "itemId": "mine_m0",
+        "itemName": "Mines",
+        "count": 50
+      }
+    },
+    {
+      "stars": 1820,
+      "base": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "container_0",
+        "itemName": "Container",
+        "count": 3
+      }
+    },
+    {
+      "stars": 1850,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 1000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      }
+    },
+    {
+      "stars": 1910,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 3000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      }
+    },
+    {
+      "stars": 1940,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 5000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 7000
+      }
+    },
+    {
+      "stars": 1970,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 10000
+      },
+      "battlePass": {
+        "itemId": "electricsheep_m0",
+        "itemName": "Electric Sheep Paint",
+        "count": 1
+      }
+    },
+    {
+      "stars": 1990,
+      "base": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 10000
+      },
+      "battlePass": {
+        "itemId": "crystalls",
+        "itemName": "Crystals",
+        "count": 15000
+      }
+    },
+    {
+      "stars": 2000,
+      "base": {
+        "itemId": "smoky_xt",
+        "itemName": "Smoky XT",
+        "count": 1
+      },
+      "battlePass": {
+        "itemId": "hornet_lc",
+        "itemName": "Hornet LC",
+        "count": 1
+      }
+    }
+  ]
+}

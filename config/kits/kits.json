@@ -1,0 +1,2538 @@
+{
+	"kits": [
+		{
+			"name": "Supplies 100",
+			"description_ru": "Hull: Васп М0\nTurret: Огнемёт М0\nPaint: Флора\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Kit contains 100 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "supplies",
+			"price": 17500,
+			"ranki": 6,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 100
+				}
+			]
+		},
+		{
+			"name": "Диверсант",
+			"description_ru": "Hull: Васп М0\nTurret: Огнемёт М0\nPaint: Флора\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Васп М0\nTurret: Огнемёт М0\nPaint: Флора\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Saboteur",
+			"price": 480,
+			"ranki": 2,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "wasp",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "flamethrower",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "flora",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 10
+				}
+			]
+		},
+		{
+			"name": "Военврач",
+			"description_ru": "Hull: Хорнет М0\nTurret: Изида М0\nPaint: Морпех\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хорнет М0\nTurret: Изида М0\nPaint: Морпех\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Military_doctor",
+			"price": 960,
+			"ranki": 2,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hornet",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "isida",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "marine",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 10
+				}
+			]
+		},
+		{
+			"name": "Кирпич",
+			"description_ru": "Hull: Титан М0\nTurret: Твинс М0\nPaint: Болотный\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Титан М0\nTurret: Твинс М0\n\nPaint: Болотный\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Brick",
+			"price": 750,
+			"ranki": 2,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "titan",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "twins",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "marsh",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 10
+					}
+			]
+		},
+		{
+			"name": "Кадет",
+			"description_ru": "Hull: Хорнет М0\nTurret: Рельса М0\nPaint: Лесник\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хорнет М0\nTurret: Рельса М0\nPaint: Лесник\n\nKit contains 10 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Cadet",
+			"price": 960,
+			"ranki": 2,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hornet",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "railgun",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "forester",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 10
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 10
+				}
+			]
+		},
+		{
+			"name": "Варан",
+			"description_ru": "Hull: Мамонт М0\nTurret: Гром М0\nPaint: Дракон\n\nKit contains 12 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Мамонт М0\nTurret: Гром М0\nPaint: Дракон\n\nKit contains 12 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Varan",
+			"price": 2400,
+			"ranki": 3,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mamont",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "thunder",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "dragon",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 12
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 12
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 12
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 12
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 12
+				}
+			]
+		},
+		{
+			"name": "Берсерк",
+			"description_ru": "Hull: Викинг М0\nTurret: Фриз М0\nPaint: Сафари\n\nKit contains 15 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М0\nTurret: Фриз М0\nPaint: Сафари\n\nKit contains 15 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Berserk",
+			"price": 2220,
+			"ranki": 4,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "frezee",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "safari",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 15
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 15
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 15
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 15
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 15
+					}
+			]
+		},
+		{
+			"name": "Коммандо",
+			"description_ru": "Hull: Викинг М0\nTurret: Рикошет М0\nPaint: Дракон\n\nKit contains 15 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М0\nTurret: Рикошет М0\nPaint: Дракон\n\nKit contains 15 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Commando",
+			"price": 2820,
+			"ranki": 4,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "ricochet",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "dragon",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 15
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 15
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 15
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 15
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 15
+					}
+			]
+		},
+		{
+			"name": "Ящер",
+			"description_ru": "Hull: Титан М1\nTurret: Рикошет М0\nPaint: Дракон\n\nKit contains 20 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Титан М1\nTurret: Рикошет М0\nPaint: Дракон\n\nKit contains 20 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Lizard",
+			"price": 10560,
+			"ranki": 5,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "titan",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "ricochet",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "dragon",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 20
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 20
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 20
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 20
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 20
+				}
+			]
+		},
+		{
+			"name": "Дикарь",
+			"description_ru": "Hull: Васп М1\nTurret: Смоки М1\nPaint: Магма\n\nKit contains 25 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Васп М1\nTurret: Смоки М1\nPaint: Магма\n\nKit contains 25 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Savage",
+			"price": 12960,
+			"ranki": 6,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "wasp",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "smoky",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "magma",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 25
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 25
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 25
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 25
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 25
+				}
+			]
+		},
+		{
+			"name": "Светлячок",
+			"description_ru": "Hull: Васп М1\nTurret: Огнемёт М1\nPaint: Карбон\n\nKit contains 25 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Васп М1\nTurret: Огнемёт М1\nPaint: Карбон\n\nKit contains 25 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Firefly",
+			"price": 16320,
+			"ranki": 6,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "wasp",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "flamethrower",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "carbon",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 25
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 25
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 25
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 25
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 25
+					}
+			]
+		},
+		{
+			"name": "Хранитель",
+			"description_ru": "Hull: Титан М1\nTurret: Смоки М1\nPaint: Кольчуга\n\nKit contains 30 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Титан М1\nTurret: Смоки М1\nPaint: Кольчуга\n\nKit contains 30 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Keeper",
+			"price": 25020,
+			"ranki": 7,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "titan",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "smoky",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "kolichuga",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 30
+				}
+			]
+		},
+		{
+			"name": "Пират",
+			"description_ru": "Hull: Хантер М1\nTurret: Твинс М1\nPaint: Роджер\n\nKit contains 30 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хантер М1\nTurret: Твинс М1\nPaint: Роджер\n\nKit contains 30 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Pirate",
+			"price": 25920,
+			"ranki": 7,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hunter",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "twins",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "roger",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 30
+					}
+			]
+		},
+		{
+			"name": "Вампир",
+			"description_ru": "Hull: Васп М1\nTurret: Изида М1\nPaint: Мэри\n\nKit contains 30 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Васп М1\nTurret: Изида М1\nPaint: Мэри\n\nKit contains 30 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Vampire",
+			"price": 25500,
+			"ranki": 7,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "wasp",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "isida",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mary",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 30
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 30
+					}
+			]
+		},
+		{
+			"name": "Бизон",
+			"description_ru": "Hull: Мамонт М1\nTurret: Изида М1\nPaint: Чужой\n\nKit contains 35 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Мамонт М1\nTurret: Изида М1\nPaint: Чужой\n\nKit contains 35 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Buffalo",
+			"price": 44100,
+			"ranki": 8,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mamont",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "isida",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "foreign",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 35
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 35
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 35
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 35
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 35
+				}
+			]
+		},
+		{
+			"name": "Буран",
+			"description_ru": "Hull: Хорнет М1\nTurret: Фриз М1\nPaint: Буря\n\nKit contains 35 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хорнет М1\nTurret: Фриз М1\nPaint: Буря\n\nKit contains 35 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Blizzard",
+			"price": 34410,
+			"ranki": 8,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hornet",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "frezee",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "storm",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 35
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 35
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 35
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 35
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 35
+					}
+			]
+		},
+		{
+			"name": "Рыцарь",
+			"description_ru": "Hull: Викинг М1\nTurret: Рикошет М1\nPaint: Кольчуга\n\nKit contains 40 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М1\nTurret: Рикошет М1\nPaint: Кольчуга\n\nKit contains 40 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Knight",
+			"price": 46530,
+			"ranki": 9,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "ricochet",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "kolichuga",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 40
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 40
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 40
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 40
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 40
+				}
+			]
+		},
+		{
+			"name": "Купидон",
+			"description_ru": "Hull: Викинг М1\nTurret: Фриз М1\nPaint: С Любовью\n\nKit contains 40 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М1\nTurret: Фриз М1\nPaint: С Любовью\n\nKit contains 40 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Cupid",
+			"price": 53010,
+			"ranki": 9,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "frezee",
+					"modif": 1,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "withlove",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 40
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 40
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 40
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 40
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 40
+					}
+			]
+		},
+		{
+			"name": "Стингер",
+			"description_ru": "Hull: Хорнет М2\n\nTurret: Изида М2\n\nPaint: Диджитал\n\nKit contains 75 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хорнет М2\n\nTurret: Изида М2\n\nPaint: Диджитал\n\nKit contains 75 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Stinger",
+			"price": 109000,
+			"ranki": 16,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hornet",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "isida",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "digital",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 75
+					}
+			]
+		},
+		{
+			"name": "Лавина",
+			"description_ru": "Hull: Хорнет М2\n\nTurret: Фриз М2\n\nPaint: Метель\n\nKit contains 75 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хорнет М2\n\nTurret: Фриз М2\n\nPaint: Метель\n\nKit contains 75 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Avalanche",
+			"price": 117200,
+			"ranki": 16,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hornet",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "frezee",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "blizzard",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 75
+				}
+			]
+		},
+		{
+			"name": "Осака",
+			"description_ru": "Hull: Хантер М2\n\nTurret: Изида М2\n\nPaint: Магма\n\nKit contains 75 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хантер М2\n\nTurret: Изида М2\n\nPaint: Магма\n\nKit contains 75 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Osaka",
+			"price": 106050,
+			"ranki": 16,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hunter",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "isida",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "sacura",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 75
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 75
+				}
+			]
+		},
+		{
+			"name": "Вольтаж",
+			"description_ru": "Hull: Диктатор М2\n\nTurret: Рельса М2\n\nPaint: Электра\n\nKit contains 100 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Диктатор М2\n\nTurret: Рельса М2\n\nPaint: Электра\n\nKit contains 100 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Voltage",
+			"price": 118700,
+			"ranki": 17,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "dictator",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "railgun",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "electra",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 100
+					}
+			]
+		},
+		{
+			"name": "Самум",
+			"description_ru": "Hull: Диктатор М2\n\nTurret: Гром М2\n\nPaint: Песчаник\n\nKit contains 100 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Диктатор М2\n\nTurret: Гром М2\n\nPaint: Песчаник\n\nKit contains 100 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Simoom",
+			"price": 137400,
+			"ranki": 17,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "dictator",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "thunder",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "standstone",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 100
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 100
+				}
+			]
+		},
+		{
+			"name": "Огненная стена",
+			"description_ru": "Hull: Хантер М2\n\nTurret: Огнемёт М2\n\nPaint: Хохлома\n\nKit contains 125 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хантер М2\n\nTurret: Огнемёт М2\n\nPaint: Хохлома\n\nKit contains 125 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Firewall",
+			"price": 148600,
+			"ranki": 18,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hunter",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "flamethrower",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "khokhloma",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 125
+				}
+			]
+		},
+		{
+			"name": "Кабан",
+			"description_ru": "Hull: Диктатор М2\n\nTurret: Рикошет М2\n\nPaint: Искра\n\nKit contains 125 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Диктатор М2\n\nTurret: Рикошет М2\n\nPaint: Искра\n\nKit contains 125 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Boar",
+			"price": 125300,
+			"ranki": 18,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "dictator",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "ricochet",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "spark",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 125
+				}
+			]
+		},
+		{
+			"name": "Диджей",
+			"description_ru": "Hull: Викинг М2\n\nTurret: Фриз М2\n\nPaint: Электра\n\nKit contains 125 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М2\n\nTurret: Фриз М2\n\nPaint: Электра\n\nKit contains 125 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Dj",
+			"price": 120400,
+			"ranki": 18,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "frezee",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "electra",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 125
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 125
+					}
+			]
+		},
+		{
+			"name": "Крепость",
+			"description_ru": "Hull: Мамонт М2\n\nTurret: Гром М2\n\nPaint: Шелест\n\nKit contains 132 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Мамонт М2\n\nTurret: Гром М2\n\nPaint: Шелест\n\nKit contains 132 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Fortress",
+			"price": 138900,
+			"ranki": 19,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mamont",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "thunder",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "rustle",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 132
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 132
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 132
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 132
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 132
+					}
+			]
+		},
+		{
+			"name": "Комар",
+			"description_ru": "Hull: Васп М2\n\nTurret: Рельса М2\n\nPaint: Саванна\n\nKit contains 132 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Васп М2\n\nTurret: Рельса М2\n\nPaint: Саванна\n\nKit contains 132 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Mosquito",
+			"price": 183900,
+			"ranki": 19,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "wasp",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "railgun",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "savanna",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 132
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 132
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 132
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 132
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 132
+				}
+			]
+		},
+		{
+			"name": "Таран",
+			"description_ru": "Hull: Титан М2\n\nTurret: Твинс М2\n\nPaint: Хохлома\n\nKit contains 150 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Титан М2\n\nTurret: Твинс М2\n\nPaint: Хохлома\n\nKit contains 150 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Ram",
+			"price": 167000,
+			"ranki": 20,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "titan",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "twins",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "khokhloma",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 150
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 150
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 150
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 150
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 150
+					}
+			]
+		},
+		{
+			"name": "Атлант",
+			"description_ru": "Hull: Титан М2\n\nTurret: Смоки М2\n\nPaint: Глина\n\nKit contains 150 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Титан М2\n\nTurret: Смоки М2\n\nPaint: Глина\n\nKit contains 150 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Atlas",
+			"price": 155000,
+			"ranki": 20,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "titan",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "smoky",
+					"modif": 2,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "clay",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 150
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 150
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 150
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 150
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 150
+					}
+			]
+		},
+		{
+			"name": "Целитель",
+			"description_ru": "Hull: Хорнет М3\n\nTurret: Изида М3\n\nPaint: Ирбис\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хорнет М3\n\nTurret: Изида М3\n\nPaint: Ирбис\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Healer",
+			"price": 234350,
+			"ranki": 23,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hornet",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "isida",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "irbis",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 200
+					}
+			]
+		},
+		{
+			"name": "Райден",
+			"description_ru": "Hull: Викинг М3\n\nTurret: Гром М3\n\nPaint: Изумруд\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М3\n\nTurret: Гром М3\n\nPaint: Изумруд\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Raiden",
+			"price": 262700,
+			"ranki": 23,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "thunder",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "izumurud",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 200
+				}
+			]
+		},
+		{
+			"name": "Снайпер",
+			"description_ru": "Hull: Викинг М3\n\nTurret: Шафт М3\n\nPaint: Тина\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М3\n\nTurret: Шафт М3\n\nPaint: Тина\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Sniper",
+			"price": 326400,
+			"ranki": 24,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "shaft",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "tina",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 200
+				}
+			]
+		},
+		{
+			"name": "Санитар",
+			"description_ru": "Hull: Викинг М3\n\nTurret: Изида М3\n\nPaint: Пикассо\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М3\n\nTurret: Изида М3\n\nPaint: Пикассо\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Medic",
+			"price": 319250,
+			"ranki": 24,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "isida",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "picasso",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 200
+					}
+			]
+		},
+		{
+			"name": "Борей",
+			"description_ru": "Hull: Васп М3\n\nTurret: Фриз М3\n\nPaint: Тайга\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Васп М3\n\nTurret: Фриз М3\n\nPaint: Тайга\n\nKit contains 200 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Boreas",
+			"price": 298250,
+			"ranki": 24,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "wasp",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "frezee",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "taiga",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 200
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 200
+				}
+			]
+		},
+		{
+			"name": "Легенда",
+			"description_ru": "Hull: Хорнет М3\n\nTurret: Рельса М3\n\nPaint: Продиджи\n\nKit contains 250 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хорнет М3\n\nTurret: Рельса М3\n\nPaint: Продиджи\n\nKit contains 250 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Legend",
+			"price": 284500,
+			"ranki": 25,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hornet",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "railgun",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "prodigy",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 250
+				}
+			]
+		},
+		{
+			"name": "Пиромант",
+			"description_ru": "Hull: Титан М3\n\nTurret: Огнемёт М3\n\nPaint: Инферно\n\nKit contains 250 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Титан М3\n\nTurret: Огнемёт М3\n\nPaint: Инферно\n\nKit contains 250 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Pyromancer",
+			"price": 337750,
+			"ranki": 25,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "titan",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "flamethrower",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "inferno",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 250
+				}
+			]
+		},
+		{
+			"name": "Паладин",
+			"description_ru": "Hull: Викинг М3\n\nTurret: Смоки М3\n\nPaint: Инферно\n\nKit contains 250 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Викинг М3\n\nTurret: Смоки М3\n\nPaint: Инферно\n\nKit contains 250 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Paladin",
+			"price": 321150,
+			"ranki": 25,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "viking",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "smoky",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "inferno",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 250
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 250
+					}
+			]
+		},
+		{
+			"name": "Кардинал",
+			"description_ru": "Hull: Титан М3\n\nTurret: Твинс М3\n\nPaint: Пикассо\n\nKit contains 300 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Титан М3\n\nTurret: Твинс М3\n\nPaint: Пикассо\n\nKit contains 300 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Cardinal",
+			"price": 388250,
+			"ranki": 26,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "titan",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "twins",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "picasso",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 300
+					}
+			]
+		},
+		{
+			"name": "Скалолаз",
+			"description_ru": "Hull: Титан М3\n\nTurret: Рикошет М3\n\nPaint: Скала\n\nKit contains 300 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Титан М3\n\nTurret: Рикошет М3\n\nPaint: Скала\n\nKit contains 300 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Rock_climber",
+			"price": 351800,
+			"ranki": 26,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "titan",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "ricochet",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "rock",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 300
+				}
+			]
+		},
+		{
+			"name": "Бульдозер",
+			"description_ru": "Hull: Мамонт М3\n\nTurret: Гром М3\n\nPaint: Изумруд\n\nKit contains 300 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Мамонт М3\n\nTurret: Гром М3\n\nPaint: Изумруд\n\nKit contains 300 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Bulldozer",
+			"price": 286950,
+			"ranki": 26,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mamont",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "thunder",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "izumurud",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 300
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 300
+					}
+			]
+		},
+		{
+			"name": "Град",
+			"description_ru": "Hull: Хантер М3\n\nTurret: Смоки М3\n\nPaint: Хвоя\n\nKit contains 350 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хантер М3\n\nTurret: Смоки М3\n\nPaint: Хвоя\n\nKit contains 350 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Turtle",
+			"price": 346700,
+			"ranki": 27,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hunter",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "smoky",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "needles",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 350
+					}
+			]
+		},
+		{
+			"name": "Прометей",
+			"description_ru": "Hull: Хантер М3\n\nTurret: Огнемёт М3\n\nPaint: Зевс\n\nKit contains 350 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Хантер М3\n\nTurret: Огнемёт М3\n\nPaint: Зевс\n\nKit contains 350 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Prometheus",
+			"price": 369850,
+			"ranki": 27,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "hunter",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "flamethrower",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "zeus",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 350
+				}
+			]
+		},
+		{
+			"name": "Маэстро",
+			"description_ru": "Hull: Диктатор М3\n\nTurret: Рикошет М3\n\nPaint: Пикассо\n\nKit contains 350 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+		    "description_en": "Hull: Диктатор М3\n\nTurret: Рикошет М3\n\nPaint: Пикассо\n\nKit contains 350 of each: Repair Kit, Double Damage, Double Armor, Speed Boost, Mine",
+			"kit_id": "Maestro",
+			"price": 375550,
+			"ranki": 27,
+			"items":[
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "dictator",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "ricochet",
+					"modif": 3,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "picasso",
+					"modif": 0,
+					"count": 1
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "health",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "armor",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "double_damage",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "n2o",
+					"modif": 0,
+					"count": 350
+				},
+				{
+					"type": "GARAGE_ITEM",
+					"item_id": "mine",
+					"modif": 0,
+					"count": 350
+				}
+			]
+		}
+	]
+}

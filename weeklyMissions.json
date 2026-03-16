@@ -1,0 +1,67 @@
+
+[
+    {
+        "prizes": ["Container × 1", "Weekly container × 1"],
+        "prizesId": ["container_0", "container_1"],
+        "prizesCount": [1, 1],
+        "target_progress": 150,
+        "description": "Destroy tanks in battles",
+        "id": "killTank"
+    },
+    {
+        "prizes": ["Container × 1", "Weekly container × 1"],
+        "prizesId": ["container_0", "container_1"],
+        "prizesCount": [1, 1],
+        "target_progress": 250000,
+        "description": "Deal damage to tanks",
+        "id": "damage"
+    },
+    {
+        "prizes": ["Container × 1", "Weekly container × 1"],
+        "prizesId": ["container_0", "container_1"],
+        "prizesCount": [1, 1],
+        "target_progress": 5000,
+        "description": "Gain score in battles",
+        "id": "gainScore"
+    },
+    {
+        "prizes": ["Container × 1", "Weekly container × 1"],
+        "prizesId": ["container_0", "container_1"],
+        "prizesCount": [1, 1],
+        "target_progress": 50,
+        "description": "Capture flags",
+        "id": "captureTheFlag"
+    },
+    {
+        "prizes": ["Container × 1", "Weekly container × 1"],
+        "prizesId": ["container_0", "container_1"],
+        "prizesCount": [1, 1],
+        "target_progress": 60,
+        "description": "Return flags",
+        "id": "flag_return"
+    },
+    {
+        "prizes": ["Container × 1", "Weekly container × 1"],
+        "prizesId": ["container_0", "container_1"],
+        "prizesCount": [1, 1],
+        "target_progress": 12500,
+        "description": "Win crystalls in battles",
+        "id": "win_cry"
+    },
+    {
+        "prizes": ["Container × 2", "Weekly container × 1"],
+        "prizesId": ["container_0", "container_1"],
+        "prizesCount": [2, 1],
+        "target_progress": 10,
+        "description": "Complete daily missions",
+        "id": "complete_daily"
+    },
+    {
+        "prizes": ["Container × 3", "Weekly container × 1"],
+        "prizesId": ["container_0", "container_1"],
+        "prizesCount": [3, 1],
+        "target_progress": 15,
+        "description": "Complete daily missions",
+        "id": "complete_daily1"
+    }
+]
