@@ -9,14 +9,14 @@ version = '0.0.1-SNAPSHOT'
 
 
 jar {
- duplicatesStrategy(DuplicatesStrategy.EXCLUDE)
-
+ 
     manifest {
         attributes('Main-Class': 'gtanks.main.Main')
      }
-	 from {
-   configurations.runtimeClasspath.collect {it.isDirectory() ? it : zipTree(it)}  
- }
+	duplicatesStrategy = 'exclude'
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
     
 }
 
